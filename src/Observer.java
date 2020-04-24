@@ -1,5 +1,6 @@
-public class Observer {
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-    }
+public interface Observer {
+
+    //更新
+    public void update();
+    
 }
