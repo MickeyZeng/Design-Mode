@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa548e47-1770-4f29-aff4-4d02f1440ff8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConcreteObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConcreteSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Subject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Oberver/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Oberver/Observer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Observer.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +96,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587692142266</updated>
-      <workItem from="1587692143878" duration="1715000" />
+      <workItem from="1587692143878" duration="1782000" />
+      <workItem from="1587695372594" duration="24000" />
+      <workItem from="1587695472486" duration="569000" />
     </task>
     <servers />
   </component>
@@ -115,7 +110,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
