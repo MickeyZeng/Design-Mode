@@ -1,4 +1,7 @@
-# Observer 观察者模式
+## Design Mode
+
+
+#### Observer 观察者模式
 ____
 **主要有五个步骤**
 ______
