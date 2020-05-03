@@ -1,3 +1,5 @@
+package oberver;
+
 public interface Observer {
 
     //更新

@@ -1,3 +1,5 @@
+package oberver;
+
 public class ConcreteObserver implements Observer{
 
     //小弟们的名字

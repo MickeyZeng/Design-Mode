@@ -1,3 +1,5 @@
+package oberver;
+
 import java.util.Vector;
 
 public class Subject {

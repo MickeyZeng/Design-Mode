@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa548e47-1770-4f29-aff4-4d02f1440ff8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleFactory/ISendMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleFactory/SendMsgFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleFactory/SmsSendMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleFactory/WeiXinSendMsg.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oberver/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oberver/ConcreteObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oberver/ConcreteSubject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oberver/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oberver/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oberver/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConcreteObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oberver/ConcreteObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConcreteSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oberver/ConcreteSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oberver/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oberver/Subject.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,23 +80,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.SendMsgFactory">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Client" />
+      <option name="MAIN_CLASS_NAME" value="oberver.Client" />
       <module name="Oberver" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Observer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Observer" />
+      <option name="MAIN_CLASS_NAME" value="oberver.Observer" />
       <module name="Oberver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendMsgFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleFactory.SendMsgFactory" />
+      <module name="Oberver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpleFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SendMsgFactory" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Observer" />
       </list>
@@ -98,7 +128,8 @@
       <updated>1587692142266</updated>
       <workItem from="1587692143878" duration="1782000" />
       <workItem from="1587695372594" duration="24000" />
-      <workItem from="1587695472486" duration="569000" />
+      <workItem from="1587695472486" duration="1198000" />
+      <workItem from="1588420339557" duration="1504000" />
     </task>
     <servers />
   </component>
